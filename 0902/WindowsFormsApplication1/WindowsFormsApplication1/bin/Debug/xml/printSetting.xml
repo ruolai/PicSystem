@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<printSet>
+	<name name="name">
+		<x>20</x>
+		<y>20</y>
+	</name>
+	<csrq name="csrq">
+		<x></x>
+		<y></y>
+	</csrq>
+</printSet>
